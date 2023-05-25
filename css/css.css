@@ -1,0 +1,8 @@
+p[title*="afo"]{
+	
+	background-color: #6969;
+}
+p:hover{
+	background-color: #000;
+	color: #fff;
+}
